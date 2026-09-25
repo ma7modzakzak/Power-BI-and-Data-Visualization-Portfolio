@@ -42,8 +42,3 @@ Welcome to my Business Intelligence and Data Visualization practice portfolio! T
 - **Data Formats:** CSV, XLSX
 - **Analytics & Modeling:** DAX (Data Analysis Expressions), Data Modeling, Visual Storytelling
 
----
-
-## 👤 Connect with Me
-- **LinkedIn:** [ضع رابط حسابك هنا]
-- **GitHub:** [ضع رابط حسابك هنا]
