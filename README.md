@@ -1,38 +1,43 @@
-# 📊 Power BI & Data Visualization Practice Portfolio
+# 📊 Data Analytics & Visualization Practice Portfolio
 
-Welcome to my Business Intelligence and Data Visualization portfolio! This repository contains a curated collection of training dashboards created using **Power BI** and **Tableau**, covering various domains such as retail sales, e-commerce, customer behavior, and student metrics.
+Welcome to my Business Intelligence and Data Visualization practice portfolio! This repository contains a curated collection of analytics projects and dashboards created using **Power BI**, **Tableau**, and **Microsoft Excel**, covering various domains such as e-commerce, retail sales, customer behavior, and operational metrics.
 
 ---
 
 ## 📂 Projects Overview
 
 ### 1️⃣ Sallah E-Commerce Analytics (`Sallah Project/`)
-- **Focus:** E-commerce performance, orders tracking, revenue, and customer metrics for Sallah platform store.
+- **Focus:** E-commerce performance, orders tracking, revenue metrics, and customer insights for the Sallah platform store.
 - **Tools:** Power BI, DAX, Excel/CSV.
 
 ### 2️⃣ Superstore Sales Analysis (`super strore data/`)
-- **Focus:** Retail sales analysis, profit margins, regional performance, and shipping mode insights.
+- **Focus:** Retail sales performance, profit margins, regional trends, and shipping mode analytics.
 - **Tools:** Power BI, CSV.
 
 ### 3️⃣ Bikes Sales Dashboard (`bikes data/`)
-- **Focus:** Bicycle customer demographics, purchasing patterns, and sales performance.
+- **Focus:** Customer demographics, purchasing patterns, and bicycle sales tracking.
 - **Tools:** Power BI, CSV.
 
 ### 4️⃣ Consumers Behavior Analysis (`consumers data/`)
-- **Focus:** Customer segmentation, spending habits, and preference tracking.
+- **Focus:** Customer segmentation, spending habits, and behavioral metrics analysis.
 - **Tools:** Power BI, CSV.
 
 ### 5️⃣ Student Performance Metrics (`students data/`)
-- **Focus:** Academic scores, attendance tracking, and performance distribution.
+- **Focus:** Academic performance evaluation, score distribution, and attendance metrics.
 - **Tools:** Power BI, CSV.
 
 ### 6️⃣ Tableau Sales Dashboard (`TAbleau DASHBOARD/`)
-- **Focus:** Interactive sales visualization and dynamic KPI insights.
+- **Focus:** Dynamic sales visualization and interactive KPI tracking using Tableau.
 - **Tools:** Tableau Desktop, CSV.
+
+### 7️⃣ Misu Data Analysis Dashboard (`misu data/`)
+- **Focus:** Financial performance tracking, operational KPIs, dynamic pivot summaries, and visual metric distributions.
+- **Tools:** Microsoft Excel (Advanced Dashboards, Pivot Tables, Formulas & Charts).
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **Business Intelligence:** Power BI Desktop, Tableau, Microsoft Excel
-- **Data Formats:** CSV, Microsoft Excel
-- **Analytics & Calculations:** DAX (Data Analysis Expressions), Data Modeling, Visual Storytelling
+- **Business Intelligence & Visualization:** Power BI Desktop, Tableau Desktop, Microsoft Excel .
+- **Spreadsheets & Analysis:** Microsoft Excel (Pivot Tables, Advanced Formulas, Interactive Dashboards)
+- **Data Formats:** CSV, XLSX
+- **Analytics & Modeling:** DAX (Data Analysis Expressions), Data Modeling, Visual Storytelling
